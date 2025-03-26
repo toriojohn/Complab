@@ -14,7 +14,7 @@ import {
 import { ArrowUpDown, ChevronLeft, ChevronRight, FilterX, Loader2, MoreHorizontal, Pencil, PlusCircle } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
-import { Checkbox } from "@/components/ui/checkbox"
+
 import {
   DropdownMenu,
   DropdownMenuContent,
